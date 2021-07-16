@@ -1,1 +1,1 @@
-A classifier system is built to predict whether a loan case will be paid off or not from data such as salary,age,gender etc.The model is built using different algorithms and the accuracy of each algorithms is reported.
+A classifier system is built to predict whether a loan case will be paid off or not from historical data such as Due date,education,age,gender,loan amount,paid status etc.The model is built using different algorithms and the accuracy of each algorithms is reported.
