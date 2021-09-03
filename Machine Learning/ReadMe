@@ -1,1 +1,10 @@
-A classifier system is built to predict whether a loan case will be paid off or not from historical data such as Due date,education,age,gender,loan amount,paid status etc.The model is built using different algorithms and the accuracy of each algorithms is reported.
+We are given a dataset about past loans of old customers such as Due date,education,age,gender,loan amount,paid status etc. is given.
+With that, we need to predict whether a new customer will pay off a loan or not.
+The model is built using 4 algorithms:
+1)KNN
+2)SVM
+3)Logistic regression
+4)Decision Tree
+and the accuracy of each algorithms is reported so that the best classifier can be found out.
+
+
